@@ -1,4 +1,4 @@
-This allows one to disable the Code Scanning's default query set without having to create a separate configuration file. One can add this to one's Code Scanning workflow file as follows:
+This allows one to disable Code Scanning's default query set without having to create a separate configuration file. One can add this to one's Code Scanning workflow file as follows:
 
 ```yaml
 name: "CodeQL"
